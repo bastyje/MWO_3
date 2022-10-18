@@ -1,0 +1,1 @@
+Jedyna rzecz, którą należy zrobić, to uruchomienie w korzeniu projektu (tam, gdzie znajduje się plik `Lab2.sln`) polecenia `dotnet test`.
